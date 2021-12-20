@@ -1,5 +1,5 @@
 <h1>Find-Your-Simran</h1>
-<b>A full integrated platform to find your fellow  co-developer.</b>
+<h3>A full integrated platform to find your fellow  co-developer.</h3>
 <br>
 
 > Dont let your introvertSide to become hindrance to your career.
